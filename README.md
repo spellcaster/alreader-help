@@ -8,4 +8,4 @@ AlReader: комфортное чтение с возможностью прав
 
 Wiki: https://github.com/rb2/alreader-help/wiki
 
-Github Pages:shttp://rb2.github.com/alreader-help/
+Github Pages: http://rb2.github.com/alreader-help/
